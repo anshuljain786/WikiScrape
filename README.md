@@ -21,5 +21,5 @@ WikiScraper is a simple Python script designed to scrape Wikipedia articles base
 
 Contributions are welcome! If you encounter any issues or have suggestions for improvements, feel free to open an issue or submit a pull request.
 
-
+AUTHOR : ANSHUL JAIN
 
